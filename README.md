@@ -10,7 +10,7 @@ To develop a simple yet effective ML-based web application that predicts diabete
 ---
 
 ## 🚀 Live Demo
-`🔗 https://svm-diabetes-prediction-app-cav3dzf7stca9pqkzhyqxb.streamlit.app/`
+`🔗 https://svm-diabetes-prediction-h4sodsix54q2j5bmrntgo8.streamlit.app/`
 
 ---
 

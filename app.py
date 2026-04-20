@@ -27,4 +27,5 @@ if st.button("Predict"):
         st.error("🩸 **The patient is Diabetic**")
     else:
         st.success("💚 **The patient is Not Diabetic**")
+    st.write("Built by **Kironjyoti Deb**")
 
